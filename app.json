@@ -1,5 +1,5 @@
 {
-      "name": "Shasa Bot",
+      "name": "MissKaur Bot",
       "description": "An Anime Theme Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -9,8 +9,8 @@
          "Shasa"
       ],
     
-   "logo":    "https://telegra.ph/file/c3254e92e7672b773f942.jpg",  
-   "repository": "https://github.com/Mdnoor786/ShasaBot",
+   "logo":    "https://te.legra.ph/file/438d922bd28413882ccd0.jpg",  
+   "repository": "https://github.com/LegendYash/MissKaurBot",
    "addons": [
           {
          "options": {
